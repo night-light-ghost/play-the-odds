@@ -15,6 +15,7 @@ Best of luck! And may you be able to know when the odds are in your favour ;-)
 
 The game begins with a shuffled 6 card deck and the player has $500
 
+```
 Default Game board:
 
 +++==========||==========||==========||==========+++
@@ -132,4 +133,4 @@ DMND  PADE  CLUB  HART
  \/\  \\//     \ \/ \\//       \ \/  //\\
 DMDS  CLBS      \/\ CLBS        \/\  \\//
 
-
+```
